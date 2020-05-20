@@ -1,0 +1,14 @@
+{
+    "name": "asus/portofolio",
+    "description": "no",
+    "authors": [
+        {
+            "name": "Nur ikhsan",
+            "email": "aikhsan17@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+    	"server": "php -S localhost:8080"
+    }
+}
